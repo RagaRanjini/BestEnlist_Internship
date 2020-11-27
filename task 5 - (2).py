@@ -1,0 +1,10 @@
+def covid(patient_name,body_temp=98):
+    print(" Patient Name: "+patient_name ,"\n Body temperature: "+str(body_temp))
+patient_name=input("enter the patient's name: ")
+body_temp=input("enter the body temperature: ")
+print (" passing the body temperature input to the function ")
+covid(patient_name,body_temp)
+print(" here the passed input of body temperature got printed")
+print(" not passing the body temperature input to the function")
+covid(patient_name)
+print("here the default value of body temperature is printed")
