@@ -1,4 +1,4 @@
-#installation of pandas package proof file is uploaded in github as "pandas package installation"
+#installation of pandas package proof file is uploaded in github as "pandas package install"
 import pandas 
 
 dict={"STUDENT NAME":"RAGA RANJINI","AGE":"19","GENDER":"FEMALE"}
